@@ -1,5 +1,22 @@
 # Introduction - CSS Challenge 3 - Blog Page Layout
 
+![Challenge Day 3](ChallengeDay3.png)
+
+## Initial Result 
+![Initial Result](InitialResult.png)
+
+## Final Result 
+![Final Result](FinalResult.png)
+
+
+## Run it
+
+To try and review this challenge, download it, open intex.html and open the project folder with VisualStudioCode (or your IDE of prefference).
+You can modify the index.css file which contains the solution.
+
+Thanks Jad Khalili and Per Harald for creating this awesome challenges and tutorials!!
+
+
 ## Supporting Scrimba
 
 Since 2017, we have created over 20 free courses on Scrimba, and we're going to
